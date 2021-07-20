@@ -18,7 +18,7 @@ Tarragona-Bonavista (North-East Spain) was the location selected because of long
 
 
 ### REPLICATION
-To replicate the TFM, it is needed to follow strictly Notebooks sequence below, supported by Main Report file:
+To replicate the TFM, it is needed to follow strictly Notebooks sequenced below, supported by MAIN REPORT file:
 
 A) Data acquisition: 
    - Pollutants: 1A.Obtain_data_pollutants.ipynb
