@@ -28,7 +28,7 @@ B) Data merge:
    - 2.Merge_data_pollutant_meteo.ipynb
    
 C) Data cleansing, preparation and Analysis:
-   - 3.Modelling_1.ipynb
+   - 3.Modelling.ipynb
    
 D) FrontEnd:
    - FrontEnd.ipynb
