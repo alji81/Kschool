@@ -1,7 +1,7 @@
 # POLLUTANT ALERT SYSTEM
 
 ### INTRODUCTION
-The main objective of this TFM is to develop a PM2.5 Pollutant Alert System application capable to predict in 24h forecast if to Activate or not some countermeasures to keep pollutant values under threshold established by authorities.
+The main objective of this TFM is to develop a PM2.5 Pollutant Alert System application capable to predict in 24h forecast whether to Activate or not some countermeasures to keep pollutant values under threshold established by authorities.
 
 To do so, this TFM will allow someone with a bit of knowledge in Data Science to understand how to:
    1.	Live download, pre-process and merge datasets from different formats structured into a unique dataset to be analysed.
